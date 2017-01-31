@@ -110,6 +110,7 @@
 
   .guitar2 img {
     padding-top:38%;
+    margin-left: 2%
   }
 
   .twit {
@@ -121,6 +122,10 @@
 
 /* xs */
 @media (max-width: 767px) {
+    
+  .guitar2 img {
+    padding-top:38%;
+  }
 
   .main-nav .container {
     display: none;

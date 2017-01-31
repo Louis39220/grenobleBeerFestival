@@ -429,7 +429,7 @@ h2 {
 
 
 .single-event h5 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 100;
   display: block;
 }
@@ -473,6 +473,7 @@ h2 {
 
 .guitar2 img {
   padding-top: 3%;
+  margin-left: 20%
 }
 
 .about-content {
@@ -490,7 +491,7 @@ h2 {
 }
 
 .about-content p {
-  font-size: 17px;
+  font-size: 20px;
   font-family: 'Dosis',sans-serif;
 }
 
@@ -657,11 +658,11 @@ h2 {
 	display:inline-block;
 	width: 80%;
 	height: 450px;
-	background-color: #eaeaea;
+	background-color: #7ba5d0;
 }
 
 .infos {
-	margin-top:5%;
+	margin-top:3%;
 	margin-left:20%;
 }
 
@@ -772,4 +773,17 @@ h2 {
   color:#1B7B98
 }
 
+.arret {
+    padding: 3px 5px;
+    margin: 2px;
+    display: inline-block;
+    text-decoration: none;
+    min-width: 14px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.clear {
+    color: black;
+}
 
